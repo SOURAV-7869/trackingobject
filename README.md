@@ -26,7 +26,7 @@ pip install numpy opencv-python
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/SOURAV-7869/object-tracking.git
+   git clone https://https://github.com/SOURAV-7869/trackingobject.git
    cd object-tracking
    ```
 
